@@ -1,0 +1,1 @@
+# Static_file_django
