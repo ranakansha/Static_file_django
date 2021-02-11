@@ -8,7 +8,7 @@ here are the step for including static file
 STATIC_URL = '/static/'
 
 ```
-2. create static folter insite app directory.
+2. create static folder insite app directory.
 note: make sure the name of folder is static.
 3. add static folder into root for that define code into setting.py givin below.
 
